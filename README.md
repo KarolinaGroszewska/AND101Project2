@@ -3,7 +3,7 @@
 
 Submitted by: **Kari Groszewska**
 
-Time spent: **1** hours spent in total
+Time spent: **1** hour spent in total
 
 ## Summary
 
@@ -12,8 +12,6 @@ Time spent: **1** hours spent in total
 If I had to describe this project in three (3) emojis, they would be: **🫥🤍🤳**
 
 ## Application Features
-
-<!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
 
 The following REQUIRED features are completed:
 
