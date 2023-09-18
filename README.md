@@ -28,7 +28,7 @@ The following REQUIRED features are completed:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://raw.githubusercontent.com/KarolinaGroszewska/AND101Project2/main/Sep-18-2023%2015-11-35.gif?token=GHSAT0AAAAAACF3NIBUU34DQZ7L2WNVGTZ2ZIIV5JQ' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **Giphy Capture**
 
